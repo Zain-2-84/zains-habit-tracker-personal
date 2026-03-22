@@ -1,3 +1,4 @@
+ HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,8 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# zains-habit-tracker-personal
+It is a plain habit tracker, without CSS.
+But the point is to show that I understood the React basics, like useState, spread operator, filter, map, and so on.
+ cfee8bf6198d554c80aeffbed45d5b94f0d881b2
